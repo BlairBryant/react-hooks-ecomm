@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Hose",
+        "price": 18.99
+    },
+    {
+        "id": 2,
+        "name": "House",
+        "price": 18.99
+    },
+    {
+        "id": 3,
+        "name": "Sprinkler",
+        "price": 18.99
+    },
+    {
+        "id": 4,
+        "name": "Sink",
+        "price": 18.99
+    },
+    {
+        "id": 5,
+        "name": "Broom",
+        "price": 18.99
+    },
+    {
+        "id": 6,
+        "name": "Dore",
+        "price": 18.99
+    }
+]
