@@ -8,7 +8,9 @@ import ProductDetail from './components/ProductDetail';
 
 const App = () => (
     <Switch>
-      <Route exact path='/' component={Home} />
+      <Route exact path='/'  render={(props) => {
+        return <Home />
+      }} />
       <Route path='/admin/add' component={AddProduct} />
       <Route path='/admin/:id' component={EditProduct} />
       <Route path='/product/:id' component={ProductDetail} />
