@@ -6,6 +6,7 @@ const ProductContext = React.createContext([{}, () => {}]);
 
 const ProductProvider = (props) => {
     const [state, setState] = useState(startingProducts)
+    // const [currentId, setId] = useState(7)
 
     console.log(state);
     

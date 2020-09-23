@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import {ProductContext} from '../provider/Provider'
 import Product from './Product'
+import { Link } from 'react-router-dom'
 
 const Home = () => {
     
@@ -9,6 +10,7 @@ const Home = () => {
     
     return (
         <div>
+            <Link to="/admin/add"><button>Add Product</button></Link>
             {products.map(product => (
                 <Product product={product} key={product.id}/>
             ))}

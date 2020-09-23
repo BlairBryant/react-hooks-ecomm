@@ -11,6 +11,7 @@ const Product = (props) => {
                 <h2>{product.name}</h2>
                 <h3>{product.price}</h3>
             </div>
+            {/* <img src={require(product.pic)} alt="errorme"/> */}
         </Link>
     )
 

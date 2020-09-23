@@ -2,31 +2,37 @@
     {
         "id": 1,
         "name": "Hose",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     },
     {
         "id": 2,
         "name": "House",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     },
     {
         "id": 3,
         "name": "Sprinkler",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     },
     {
         "id": 4,
         "name": "Sink",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     },
     {
         "id": 5,
         "name": "Broom",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     },
     {
         "id": 6,
         "name": "Dore",
-        "price": 18.99
+        "price": 18.99,
+        "pic": "../tat-draft.jpg"
     }
 ]
